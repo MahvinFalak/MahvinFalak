@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm Mahvin Falak 👋
 
 Full Stack Developer with experience building scalable web applications using Angular, Node.js, MongoDB, Firebase, TypeScript, and JavaScript.
